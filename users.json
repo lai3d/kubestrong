@@ -843,5 +843,16 @@
     "bio": "Golden Kubestronaut | Kubestrong | GCP",
     "linkedin": "petrahudeckova",
     "avatar": "/avatars/petra-hudeckova.jpg"
-  }	
+  },
+  {
+    "name": "Taha Dekmak",
+    "github": "taha-digico",
+    "certs": ["kubestrong", "awstronaut", "kubestronaut", "Terraform"],
+    "city": "Beirut",
+    "country": "Lebanon",
+    "date": "2025-12-23",
+    "bio": "Senior Solutions Architect specializing in cloud security architecture, containers and Kubernetes, enabling organizations to build secure & scalable cloud-native systems", 
+    "linkedin": "taha-dekmak",
+    "avatar": "/avatars/taha.jpg"
+  }
 ]
