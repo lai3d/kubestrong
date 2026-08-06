@@ -816,9 +816,38 @@
     "avatar": "/avatars/sayantan_cncg.jpg"
   },
   {
+    "name": "Frederick Foong",
+    "github": "frederi-co",
+    "certs": [
+      "awstronaut",
+      "golden kubestrong"
+    ],
+    "city": "Singapore",
+    "country": "Singapore",
+    "date": "2026-07-27",
+	  "bio": "Golden Kubestronaut | AWS (12x Certified) | Red Hat Certified Architect | Platform Operations",
+    "linkedin": "frederick-foong-b76521",
+    "avatar": "/avatars/frederickfoong.jpg"
+  },
+  {
+    "name": "Petra Hudeckova",
+    "github": "PetraHudeckova",
+    "certs": [
+      "kubestrong",
+      "kubestronaut",
+      "golden kubestronaut"
+    ],
+    "city": "Prague",
+    "country": "Czech Republic",
+    "date": "2026-08-03",
+    "bio": "Golden Kubestronaut | Kubestrong | GCP",
+    "linkedin": "petrahudeckova",
+    "avatar": "/avatars/petra-hudeckova.jpg"
+  },
+  {
     "name": "Taha Dekmak",
     "github": "taha-digico",
-    "certs": ["kubestrong | awstronaut | kubestronaut | Terraform"],
+    "certs": ["kubestrong", "awstronaut", "kubestronaut", "Terraform"],
     "city": "Beirut",
     "country": "Lebanon",
     "date": "2025-12-23",
